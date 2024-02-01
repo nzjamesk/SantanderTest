@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f97de681-49aa-47f3-9c0f-506c1c690491": {
+      "ProjectGuid": "f97de681-49aa-47f3-9c0f-506c1c690491",
+      "DisplayName": "SantanderTest",
+      "ColorIndex": 0
+    },
+    "44820bf0-fc0b-430b-8c68-df67517ee165": {
+      "ProjectGuid": "44820bf0-fc0b-430b-8c68-df67517ee165",
+      "DisplayName": "SantanderTest.Test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
